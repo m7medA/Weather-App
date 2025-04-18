@@ -21,7 +21,7 @@ This project is a simple weather application built with ReactJS. It fetches weat
 
 ## Live Demo
 
-You can view the live demo of the application [here](https://your-live-demo-link.com).
+[Weather App ☁️](https://weather-app-m7med246.netlify.app/).
 
 ## Dependencies
 
